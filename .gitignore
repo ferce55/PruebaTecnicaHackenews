@@ -1,0 +1,22 @@
+## .NET
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test results
+TestResults/
+*.trx
+
+## Local tooling and secrets
+appsettings.Local.json
+.env
+
+## OS files
+.DS_Store
+Thumbs.db
